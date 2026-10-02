@@ -17,7 +17,7 @@ var map = new ol.Map({
 });
 
 //initial view - epsg:3857 coordinates if not "Match project CRS"
-map.getView().fit([1313636.779040, 9176424.015565, 1327618.686534, 9184972.276200], map.getSize());
+map.getView().fit([1312370.777869, 9176768.732504, 1328941.927492, 9186900.004368], map.getSize());
 
 //change cursor
 function pointerOnFeature(evt) {
@@ -80,7 +80,6 @@ if (hasTouchScreen) {
     }
   };
 })(map, HIT);
-
 
 ////controls container
 
@@ -1362,7 +1361,8 @@ document.addEventListener('DOMContentLoaded', function() {
         bottomRightContainerDiv.appendChild(attributionControl);
     }
 
-     /* === MATIKAN LAYER DATA SEBELUM DIKLIK DI LEGENDA (kecuali basemap) === */
+    
+        /* === MATIKAN LAYER DATA SEBELUM DIKLIK DI LEGENDA (kecuali basemap) === */
 (function turnOffLayersForMobile() {
   // deteksi & matikan semua layer non-basemap di layersList
   function offIfNotBase(layer) {
@@ -1376,7 +1376,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var title  = (layer.get && layer.get('title')) || '';
     var isBase =
       (layer.get && layer.get('type') === 'base') ||                            // QGIS2Web base
-      /(^|\b)(base|basemap|bing|google|carto|stamen)\b/i.test(title) ||     // judul umum basemap
+      /(^|\b)(base|basemap|osm|bing|google|carto|stamen)\b/i.test(title) ||     // judul umum basemap
       (layer.getSource && (
         layer.getSource() instanceof ol.source.OSM ||
         layer.getSource() instanceof ol.source.BingMaps ||
