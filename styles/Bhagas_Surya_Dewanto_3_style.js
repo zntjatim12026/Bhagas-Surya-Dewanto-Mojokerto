@@ -7,7 +7,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
     switch(valueStr) {
         case '9':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,204,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,204,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -16,7 +16,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '8':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,248,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,248,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -25,7 +25,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '7':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,124,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,124,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -34,7 +34,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '6':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,40,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,40,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -43,7 +43,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '5':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(49,0,236,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(49,0,236,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -52,7 +52,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '48':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(173,0,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(173,0,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -61,7 +61,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '47':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(194,0,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(194,0,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -70,7 +70,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '46':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,254,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,254,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -79,7 +79,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '45':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,167,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,167,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -88,7 +88,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '44':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,101,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,101,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -97,7 +97,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '43':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,83,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,83,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -106,7 +106,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '42':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,33,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,0,33,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -115,7 +115,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '41':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,31,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,31,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -124,7 +124,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '40':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,72,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,72,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -133,7 +133,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '4':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,142,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,142,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -142,7 +142,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '39':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,215,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,215,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -151,7 +151,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '38':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(248,255,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(248,255,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -160,7 +160,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '37':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(187,255,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(187,255,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -169,7 +169,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '36':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(100,255,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(100,255,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -178,7 +178,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '35':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(50,255,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(50,255,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -187,7 +187,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '34':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,94,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,94,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -196,7 +196,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '33':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,135,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,255,135,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -205,7 +205,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '32':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,195,156,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,195,156,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -214,7 +214,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '31':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,142,174,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,142,174,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -223,7 +223,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '30':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,65,156,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,65,156,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -232,7 +232,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '3':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(31,0,151,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(31,0,151,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -241,7 +241,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '29':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(132,0,155,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(132,0,155,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -250,7 +250,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '28':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(142,0,98,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(142,0,98,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -259,7 +259,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '27':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(126,0,29,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(126,0,29,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -268,7 +268,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '26':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(152,0,1,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(152,0,1,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -277,7 +277,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '25':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(139,68,3,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(139,68,3,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -286,7 +286,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '24':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(143,123,3,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(143,123,3,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -295,7 +295,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '23':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(99,133,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(99,133,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -304,7 +304,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '22':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(119,159,0,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(119,159,0,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -313,7 +313,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '21':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(8,145,34,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(8,145,34,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -322,7 +322,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '20':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,144,75,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(0,144,75,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -331,7 +331,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '2':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(122,255,228,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(122,255,228,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -340,7 +340,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '19':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(124,243,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(124,243,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -349,7 +349,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '18':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(127,219,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(127,219,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -358,7 +358,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '17':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(132,161,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(132,161,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -367,7 +367,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '16':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(188,134,255,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(188,134,255,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -376,7 +376,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '15':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,140,252,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,140,252,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -385,7 +385,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '14':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,148,188,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,148,188,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -394,7 +394,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '13':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,137,166,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,137,166,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -403,7 +403,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '12':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,125,131,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,125,131,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -412,7 +412,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '11':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,232,139,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,232,139,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -421,7 +421,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '10':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(205,255,139,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(205,255,139,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -430,7 +430,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 
         case '1':
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(145,255,126,0.30196078431372547)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(145,255,126,0.30196078431372547)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)
@@ -438,7 +438,7 @@ function categories_Bhagas_Surya_Dewanto_3(feature, value, size, resolution, lab
 			break;
 default:
             return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(255,245,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(79,225,159,1.0)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(255,40,0,0.8)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(79,225,159,1.0)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth, textAlign, offsetX, offsetY, overflow, repeat)

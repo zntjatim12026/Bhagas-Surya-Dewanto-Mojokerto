@@ -81,6 +81,7 @@ if (hasTouchScreen) {
   };
 })(map, HIT);
 
+
 ////controls container
 
     //top left container
@@ -543,9 +544,6 @@ function onSingleClickWMS(evt) {
 map.on('singleclick', onSingleClickFeatures);
 map.on('singleclick', onSingleClickWMS);
 
-map.on('singleclick', onSingleClickFeatures);
-map.on('singleclick', onSingleClickWMS);
-
 // ==== Tap-friendly Select (kompatibel, tidak bikin legend hilang) ====
 // Jangan set "condition" (biar default singleClick) -> aman lintas versi
 var tapSelect = new ol.interaction.Select({
@@ -658,6 +656,7 @@ tapSelect.on('select', function (e) {
     container.style.display = 'none';
   }
 });
+
 //get container
 var topLeftContainerDiv = document.getElementById('top-left-container')
 var bottomLeftContainerDiv = document.getElementById('bottom-left-container')
@@ -1362,7 +1361,8 @@ document.addEventListener('DOMContentLoaded', function() {
     if (attributionControl) {
         bottomRightContainerDiv.appendChild(attributionControl);
     }
-       /* === MATIKAN LAYER DATA SEBELUM DIKLIK DI LEGENDA (kecuali basemap) === */
+
+     /* === MATIKAN LAYER DATA SEBELUM DIKLIK DI LEGENDA (kecuali basemap) === */
 (function turnOffLayersForMobile() {
   // deteksi & matikan semua layer non-basemap di layersList
   function offIfNotBase(layer) {
@@ -1376,7 +1376,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var title  = (layer.get && layer.get('title')) || '';
     var isBase =
       (layer.get && layer.get('type') === 'base') ||                            // QGIS2Web base
-      /(^|\b)(base|basemap|osm|bing|google|carto|stamen)\b/i.test(title) ||     // judul umum basemap
+      /(^|\b)(base|basemap|bing|google|carto|stamen)\b/i.test(title) ||     // judul umum basemap
       (layer.getSource && (
         layer.getSource() instanceof ol.source.OSM ||
         layer.getSource() instanceof ol.source.BingMaps ||
